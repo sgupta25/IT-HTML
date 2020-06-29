@@ -1,0 +1,19 @@
+body{
+	background-color: #666666;
+}
+
+form{
+	padding:  80px;
+	border-top: 0px;
+	border-bottom: 5px;
+	border-left: 5px;
+	border-right: 5px;
+	border-style: solid;
+	border-color: black;
+	background-color: #ffffee;
+	margin-left:250px;
+	margin-right:250px;
+	font-family: Arial; 
+}
+
+	

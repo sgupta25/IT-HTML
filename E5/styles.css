@@ -1,0 +1,32 @@
+.yellow {
+	background-color: yellow;
+	color: black;
+	padding: 10px;
+	width: 500px;
+	border: 2px solid black;
+}
+
+#wrapper {max-width: 500px; margin-left: auto; margin-right: auto;}
+
+.dotted {
+	margin: 25px;
+	width: 500px;
+	border-bottom: 2px dotted black;
+}
+
+.rounded {
+	border-radius: 20px;
+}
+
+.shadow {
+	box-shadow: 20px 20px 20px gray;
+}
+
+.seethrough {
+	background-color: red;
+	color: white;
+	width: 500px;
+	border: 3px solid gray;
+	margin-top: 50px;
+	opacity: 0.5;
+}
